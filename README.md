@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/4zure09](https://github.com/4zure09)
 
+- My EF SET here: [EFSET](https://cert.efset.org/RSb8J4)
+
 - 📫 How to reach me **thanhphunguyen.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
