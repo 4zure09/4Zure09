@@ -1,54 +1,27 @@
-<h1 align="center">Hi there, I'm Thanh Phu Nguyen 👋</h1>
-<p align="center">
-  <a href="https://fb.com/@jngkao" target="_blank">Facebook</a> • 
-  <a href="mailto:thanhphunguyen.work@gmail.com">Email</a> • 
-  <a href="https://cert.efset.org/RSb8J4">EFSET Certificate</a>
-</p>
+# 💫 About Me:
+🎓 Current Role: College Student at HUTECH University<br><br>🌱 Core Tech Stack: Specializing in .NET Ecosystem & ReactJS for Full-stack development<br><br>⚙️ Other Tech & Tools: Java, SQL (MSSQL, MySQL), Docker, Postman, Photoshop<br><br>📜 English Level: EFSET Certified<br><br>📂 Repositories: Check out all of my projects at github.com/4zure09<br><br>📬 Contact: thanhphunguyen.work@gmail.com<br><br>🌐 Social: Facebook Profile
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jngkao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jngkao/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jngkao@gmail.com) 
+
+# 💻 Tech Stack:
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=4zur3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=4zur3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=4zur3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4zur3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=4zur3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=4zur3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table width="100%">
-  <tr>
-    <!-- CỘT TRÁI: GIỚI THIỆU -->
-    <td width="60%" valign="top">
-      <br/>
-      📌 <b>About Me:</b> College Student at HUTECH University <br/><br/>
-      🌱 <b>Learning:</b> <code>.NET Ecosystem</code> & <code>ReactJS</code> <br/><br/>
-      📬 <b>Reach me:</b> thanhphunguyen.work@gmail.com <br/><br/>
-      📈 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=4zure09&label=views&color=e5c07b&style=flat-square" valign="middle"/>
-      
-      <br/><br/>
-      <details>
-        <summary>🛠️ <b>Tech Stack</b></summary>
-        <br/>
-        • <b>Languages:</b> C#, Java, SQL (MSSQL, MySQL)<br/>
-        • <b>Frontend:</b> ReactJS, Tailwind CSS<br/>
-        • <b>Tools & Ops:</b> Docker, Postman, Photoshop
-      </details>
-      
-      <br/>
-      <details>
-        <summary>📂 <b>Projects & Repositories</b></summary>
-        <br/>
-        All of my projects are available at <a href="https://github.com/4zure09">github.com/4zure09</a>
-      </details>
-    </td>
-    <!-- CỘT PHẢI: ẢNH MINH HỌA CHILL LAPTOP -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2c2NqZXp5bWN2NXQ5amg5cHcyd3I1cXd5MXBqNmoxYnY4YW1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Coding Chill"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4zure09&show_icons=true&locale=en&bg_color=0d1117&title_color=e5c07b&text_color=c9d1d9&icon_color=e5c07b&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4zure09&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=e5c07b&text_color=c9d1d9&icon_color=e5c07b&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4zure09&background=0d1117&title=e5c07b&text=c9d1d9&ring=e5c07b&fire=e5c07b&currStreakNum=c9d1d9&hide_border=true" width="99%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
