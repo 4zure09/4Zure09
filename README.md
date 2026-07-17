@@ -18,7 +18,7 @@
 - 🌱 Currently focusing on mastering **.NET & ReactJS** for Full-stack development.
 - 👨‍💻 Check out my latest repositories and projects at [github.com/4zure09](https://github.com/4zure09).
 - 📜 Check my English proficiency here: [EFSET Certificate](https://cert.efset.org/RSb8J4).
-- 📬 Feel free to reach out for collaboration at **thanhphunguyen.work@gmail.com**.
+- 📬 Feel free to reach out for collaboration at **jngkao@gmail.com**.
 
 <p align="left">
   <a href="https://fb.com/@jngkao" target="_blank">
